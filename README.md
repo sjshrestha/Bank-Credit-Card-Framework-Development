@@ -1,1 +1,1 @@
-# Bank-Credit-Card-Framework-Development
+Framework project to implement design patterns we have covered so far in advanced software development in Java.
